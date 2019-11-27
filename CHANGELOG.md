@@ -1,3 +1,7 @@
+## 1.0.2
+- build for linux
+- rename main to macos
+
 ## 1.0.1
 - build binary app file
 - add usage example to README.md

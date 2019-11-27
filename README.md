@@ -5,10 +5,18 @@ Simple console local hosts editor
 
 ####Add site.loc to /etc/hosts:
 ```bash
-sudo ./bin/main -d site.loc -add
+sudo ./bin/macos -d site.loc -add
+```
+
+```bash
+sudo ./bin/linux -d site.loc -add
 ```
 
 ####Remove site.loc from /etc/hosts:
 ```bash
-sudo ./bin/main -d site.loc -rm
+sudo ./bin/masoc -d site.loc -rm
+```
+
+```bash
+sudo ./bin/linux -d site.loc -rm
 ```
