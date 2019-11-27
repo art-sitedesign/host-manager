@@ -1,3 +1,7 @@
+## 1.0.1
+- build binary app file
+- add usage example to README.md
+
 ## 1.0.0
 - created new project
 - supported flag -d [domain name]
