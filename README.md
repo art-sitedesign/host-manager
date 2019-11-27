@@ -14,7 +14,7 @@ sudo ./bin/linux -d site.loc -add
 
 ####Remove site.loc from /etc/hosts:
 ```bash
-sudo ./bin/masoc -d site.loc -rm
+sudo ./bin/macos -d site.loc -rm
 ```
 
 ```bash
