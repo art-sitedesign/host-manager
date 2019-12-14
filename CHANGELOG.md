@@ -1,3 +1,8 @@
+## 1.1.0
+- cross-builder via make
+- remove compiled binary files
+- update usage examples for README.md
+
 ## 1.0.2
 - build for linux
 - rename main to macos
